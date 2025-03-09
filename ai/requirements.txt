@@ -1,6 +1,6 @@
 opencv-python
 numpy
-natplotlib
+matplotlib
 scikit-learn
 scipy
 flask
