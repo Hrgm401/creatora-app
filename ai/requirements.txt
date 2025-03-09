@@ -1,0 +1,6 @@
+opencv-python
+numpy
+natplotlib
+scikit-learn
+scipy
+flask
