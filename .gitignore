@@ -1,0 +1,16 @@
+# node.js / TypeScript
+node_modules/
+dist/
+.env
+
+# Go
+bin/
+*.exe
+*.out
+*.test
+*.log
+
+# Python
+__pycatch__/
+*.pkl
+.ipynb_checkpoints/
